@@ -1,0 +1,22 @@
+{
+  "samples": [
+    {
+      "class": "0",
+      "idx": "530",
+      "isModified": "true",
+      "x_min": "483",
+      "y_min": "54",
+      "x_max": "503",
+      "y_max": "76"
+    },
+    {
+      "class": "0",
+      "idx": "540",
+      "isModified": "true",
+      "x_min": "440",
+      "y_min": "58",
+      "x_max": "456",
+      "y_max": "78"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "samples": [
+    {
+      "class": "0",
+      "idx": "704",
+      "isModified": "true",
+      "x_min": "352",
+      "y_min": "256",
+      "x_max": "376",
+      "y_max": "277"
+    },
+    {
+      "class": "0",
+      "idx": "706",
+      "isModified": "true",
+      "x_min": "375",
+      "y_min": "282",
+      "x_max": "398",
+      "y_max": "299"
+    },
+    {
+      "class": "0",
+      "idx": "710",
+      "isModified": "true",
+      "x_min": "396",
+      "y_min": "294",
+      "x_max": "417",
+      "y_max": "314"
+    },
+    {
+      "class": "0",
+      "idx": "711",
+      "isModified": "true",
+      "x_min": "417",
+      "y_min": "317",
+      "x_max": "434",
+      "y_max": "334"
+    },
+    {
+      "class": "0",
+      "idx": "1927",
+      "isModified": "true",
+      "x_min": "167",
+      "y_min": "326",
+      "x_max": "190",
+      "y_max": "342"
+    }
+  ]
+}

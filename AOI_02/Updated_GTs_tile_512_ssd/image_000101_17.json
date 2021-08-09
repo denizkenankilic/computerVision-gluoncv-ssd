@@ -1,0 +1,40 @@
+{
+  "samples": [
+    {
+      "class": "0",
+      "idx": "548",
+      "isModified": "true",
+      "x_min": "364",
+      "y_min": "9",
+      "x_max": "383",
+      "y_max": "29"
+    },
+    {
+      "class": "0",
+      "idx": "556",
+      "isModified": "true",
+      "x_min": "431",
+      "y_min": "77",
+      "x_max": "452",
+      "y_max": "92"
+    },
+    {
+      "class": "0",
+      "idx": "575",
+      "isModified": "true",
+      "x_min": "471",
+      "y_min": "114",
+      "x_max": "489",
+      "y_max": "129"
+    },
+    {
+      "class": "0",
+      "idx": "577",
+      "isModified": "true",
+      "x_min": "485",
+      "y_min": "108",
+      "x_max": "505",
+      "y_max": "125"
+    }
+  ]
+}

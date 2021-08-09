@@ -1,0 +1,121 @@
+{
+  "samples": [
+    {
+      "class": "0",
+      "idx": "312",
+      "isModified": "true",
+      "x_min": "200",
+      "y_min": "43",
+      "x_max": "220",
+      "y_max": "61"
+    },
+    {
+      "class": "0",
+      "idx": "345",
+      "isModified": "true",
+      "x_min": "472",
+      "y_min": "495",
+      "x_max": "492",
+      "y_max": "511"
+    },
+    {
+      "class": "0",
+      "idx": "538",
+      "isModified": "true",
+      "x_min": "306",
+      "y_min": "122",
+      "x_max": "326",
+      "y_max": "142"
+    },
+    {
+      "class": "0",
+      "idx": "556",
+      "isModified": "true",
+      "x_min": "0",
+      "y_min": "77",
+      "x_max": "20",
+      "y_max": "92"
+    },
+    {
+      "class": "0",
+      "idx": "575",
+      "isModified": "true",
+      "x_min": "39",
+      "y_min": "114",
+      "x_max": "57",
+      "y_max": "129"
+    },
+    {
+      "class": "0",
+      "idx": "576",
+      "isModified": "true",
+      "x_min": "234",
+      "y_min": "295",
+      "x_max": "251",
+      "y_max": "311"
+    },
+    {
+      "class": "0",
+      "idx": "577",
+      "isModified": "true",
+      "x_min": "53",
+      "y_min": "108",
+      "x_max": "73",
+      "y_max": "125"
+    },
+    {
+      "class": "0",
+      "idx": "582",
+      "isModified": "true",
+      "x_min": "133",
+      "y_min": "188",
+      "x_max": "155",
+      "y_max": "205"
+    },
+    {
+      "class": "0",
+      "idx": "586",
+      "isModified": "true",
+      "x_min": "258",
+      "y_min": "296",
+      "x_max": "278",
+      "y_max": "313"
+    },
+    {
+      "class": "0",
+      "idx": "597",
+      "isModified": "true",
+      "x_min": "297",
+      "y_min": "353",
+      "x_max": "321",
+      "y_max": "371"
+    },
+    {
+      "class": "0",
+      "idx": "600",
+      "isModified": "true",
+      "x_min": "370",
+      "y_min": "398",
+      "x_max": "391",
+      "y_max": "416"
+    },
+    {
+      "class": "0",
+      "idx": "601",
+      "isModified": "true",
+      "x_min": "380",
+      "y_min": "428",
+      "x_max": "403",
+      "y_max": "445"
+    },
+    {
+      "class": "0",
+      "idx": "2158",
+      "isModified": "true",
+      "x_min": "410",
+      "y_min": "322",
+      "x_max": "444",
+      "y_max": "345"
+    }
+  ]
+}

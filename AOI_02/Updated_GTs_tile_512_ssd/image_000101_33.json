@@ -1,0 +1,112 @@
+{
+  "samples": [
+    {
+      "class": "0",
+      "idx": "196",
+      "isModified": "true",
+      "x_min": "15",
+      "y_min": "93",
+      "x_max": "46",
+      "y_max": "111"
+    },
+    {
+      "class": "0",
+      "idx": "197",
+      "isModified": "true",
+      "x_min": "180",
+      "y_min": "191",
+      "x_max": "210",
+      "y_max": "215"
+    },
+    {
+      "class": "0",
+      "idx": "198",
+      "isModified": "true",
+      "x_min": "324",
+      "y_min": "135",
+      "x_max": "340",
+      "y_max": "154"
+    },
+    {
+      "class": "0",
+      "idx": "199",
+      "isModified": "true",
+      "x_min": "283",
+      "y_min": "440",
+      "x_max": "297",
+      "y_max": "464"
+    },
+    {
+      "class": "0",
+      "idx": "311",
+      "isModified": "true",
+      "x_min": "367",
+      "y_min": "433",
+      "x_max": "382",
+      "y_max": "462"
+    },
+    {
+      "class": "0",
+      "idx": "579",
+      "isModified": "true",
+      "x_min": "336",
+      "y_min": "0",
+      "x_max": "354",
+      "y_max": "20"
+    },
+    {
+      "class": "0",
+      "idx": "583",
+      "isModified": "true",
+      "x_min": "367",
+      "y_min": "193",
+      "x_max": "383",
+      "y_max": "216"
+    },
+    {
+      "class": "0",
+      "idx": "616",
+      "isModified": "true",
+      "x_min": "370",
+      "y_min": "100",
+      "x_max": "386",
+      "y_max": "121"
+    },
+    {
+      "class": "0",
+      "idx": "618",
+      "isModified": "true",
+      "x_min": "380",
+      "y_min": "155",
+      "x_max": "393",
+      "y_max": "178"
+    },
+    {
+      "class": "0",
+      "idx": "622",
+      "isModified": "true",
+      "x_min": "386",
+      "y_min": "217",
+      "x_max": "400",
+      "y_max": "237"
+    },
+    {
+      "class": "0",
+      "idx": "625",
+      "isModified": "true",
+      "x_min": "361",
+      "y_min": "309",
+      "x_max": "377",
+      "y_max": "328"
+    },
+    {
+      "class": "0",
+      "idx": "627",
+      "isModified": "true",
+      "x_min": "382",
+      "y_min": "273",
+      "x_max": "397",
+      "y_max": "295"
+    }
+  ]
+}

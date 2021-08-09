@@ -1,0 +1,31 @@
+{
+  "samples": [
+    {
+      "class": "0",
+      "idx": "199",
+      "isModified": "true",
+      "x_min": "283",
+      "y_min": "8",
+      "x_max": "297",
+      "y_max": "32"
+    },
+    {
+      "class": "0",
+      "idx": "311",
+      "isModified": "true",
+      "x_min": "367",
+      "y_min": "1",
+      "x_max": "382",
+      "y_max": "30"
+    },
+    {
+      "class": "0",
+      "idx": "315",
+      "isModified": "true",
+      "x_min": "359",
+      "y_min": "99",
+      "x_max": "376",
+      "y_max": "123"
+    }
+  ]
+}
