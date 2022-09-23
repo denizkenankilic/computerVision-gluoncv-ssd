@@ -1,7 +1,7 @@
 # computerVision-gluoncv-ssd
 Finetune a Pretrained SSD Detection Model with GluonCV
 
-In this repository, there are Python codes to finetune a pretrained SSD (Single Shot Detector) model with GluonCV library (mxnet). The "changeJsonStructureSsd.py" script can be used to change the Json structure of ground truths (here bounding box) to be useable for SSD. It changes the following struture
+In this repository, there are Python codes to finetune a pretrained SSD (Single Shot Detector) model with the GluonCV library (mxnet). The "changeJsonStructureSsd.py" script can be used to change the Json structure of ground truths (here bounding box) to be useable for SSD. It changes the following struture
 
       "class": "0",
       "height": "25",
