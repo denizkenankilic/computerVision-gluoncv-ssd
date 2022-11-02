@@ -25,4 +25,4 @@ The example data folder which stands in the repository contains the updated Json
 
       python im2rec.py lst_file_name relative_root_to_images --pass-through --pack-label
 
-Finally, the "finetune_detection.py" code is used to train model and find predicted ground truths in the test folder. The "resultsToTxtSsd.py" script converts the pickle results, that are outputs of "finetune_detection.py", to the txt format.
+Finally, the "finetune_detection.py" code is used to train model and find predicted ground truths in the test folder. The "resultsToTxtSsd.py" script converts the pickle results, that are outputs of "finetune_detection.py" file, to the txt format.
